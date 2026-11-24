@@ -1,6 +1,6 @@
 # الاستوديو المحلي — الأوامر والملفات
 
-المجلد: `C:\Users\STARS\OneDrive\سطح المكتب\ai vedio edetor` (PowerShell على Windows، شغّل الأوامر من جذر المجلد).
+المجلد: `C:\Projects\ai vedio edetor` (مُزامَن بين الأجهزة عبر Git — انظر `SETUP.md`؛ PowerShell على Windows، شغّل الأوامر من جذر المجلد).
 
 ## البنية
 ```
