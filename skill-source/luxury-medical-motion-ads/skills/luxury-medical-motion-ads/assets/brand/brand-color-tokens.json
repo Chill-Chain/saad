@@ -1,0 +1,42 @@
+{
+  "$schema_note": "المصدر الوحيد للألوان. لا تُخترع ألوان خارج هذا الملف.",
+  "version": "1.0",
+  "brand": { "ar": "مركز الأثر الخفي", "en": "HIDDEN IMPACT" },
+  "color": {
+    "primary":   { "name": "Deep Botanical Green",  "hex": "#405B4B", "use": "العناوين الرئيسية والعناصر المهمة" },
+    "secondary": { "name": "Soft Sage",             "hex": "#829786", "use": "العناوين الثانوية والرسوم البيانية" },
+    "tint":      { "name": "Pale Sage",             "hex": "#E9EFE9", "use": "خلفيات الأقسام والجداول المحددة" },
+    "paper":     { "name": "Warm Ivory",            "hex": "#F7F6F0", "use": "الخلفية الأساسية للمستندات" },
+    "accent":    { "name": "Muted Champagne Gold", "hex": "#B59A68", "use": "فواصل دقيقة وتفاصيل وأرقام مميزة (ليس للنص الطويل)" },
+    "text":      { "name": "Charcoal",              "hex": "#29322D", "use": "النصوص الرئيسية" },
+    "textMuted": { "name": "Soft Gray",             "hex": "#858B86", "use": "النصوص الثانوية والتواريخ" },
+    "white":     { "name": "Pure White",            "hex": "#FFFFFF", "use": "البطاقات والجداول" }
+  },
+  "status": {
+    "_note": "ألوان الحالة تُستخدم فقط عند وجود مرجع تقييم موثق. لم تُعتمد قيم HEX لها من المركز بعد؛ القيم أدناه مقترحة وتنتظر الاعتماد.",
+    "approved": false,
+    "green":  { "hex": "#5E8C6A", "proposed": true },
+    "yellow": { "hex": "#C9A63C", "proposed": true },
+    "orange": { "hex": "#D08A3E", "proposed": true },
+    "red":    { "hex": "#B5524A", "proposed": true }
+  },
+  "chartSequence": ["#405B4B", "#829786", "#B59A68", "#29322D", "#858B86"],
+  "ratios": { "lightBackgrounds": 0.70, "greens": 0.20, "grays": 0.05, "gold": 0.05, "binding": false },
+  "logo": {
+    "_note": "الشعار الأصلي بألوان أزرق داكن/تيل/ذهبي ولا يُعاد تلوينه. لا تُشتق ألوان الواجهة منه دون اعتماد.",
+    "original": "assets/logo/original/hidden-impact-logo.ORIGINAL.jpg",
+    "sha256": "56f334206f79da6d364dfe9a6eabe9d7d0cd8982367aa71f3053a8583eb69c24"
+  },
+  "typography": {
+    "arabic": ["SF Arabic (غير مضمّن - يتطلب ترخيصاً)", "Noto Sans Arabic", "IBM Plex Sans Arabic"],
+    "latin": ["SF Pro Display/Text (غير مضمّن - يتطلب ترخيصاً)", "Inter"],
+    "activeInThisBuild": { "arabic": "Noto Sans Arabic", "latin": "Inter" }
+  },
+  "contact": {
+    "phone": "0553565015",
+    "email": "alatharalkhafi@gmail.com",
+    "web": "https://hiddenimpactsa.com/ar",
+    "webDisplay": "hiddenimpactsa.com",
+    "country": "المملكة العربية السعودية"
+  }
+}

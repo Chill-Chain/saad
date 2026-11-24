@@ -1,0 +1,9 @@
+{
+  "_comment": "Brand settings used by every script in /scripts. Change once here.",
+  "logo": "logo-badge.png",
+  "logoTransparent": "logo.png",
+  "position": "top-right",
+  "widthPercent": 11,
+  "marginPercent": 4,
+  "opacity": 0.95
+}
